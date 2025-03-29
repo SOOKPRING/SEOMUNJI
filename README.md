@@ -1,2 +1,2 @@
 # SEOMUNJI
-스프링 스터디 - 서문지
+Welcome to Ji's Sookpring study🦁
